@@ -6,14 +6,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title><tiles:insertAttribute name="title"></tiles:insertAttribute></title>
-
+    
 </head>
 <body>
 
 <div id="wrapper">
 	<c:out value="${leftMenuList}"></c:out>
 
+</div>
+
+<div id="content">
+	<tiles:insertAttribute name="content"></tiles:insertAttribute>
+</div>
+
+<div id="footer">
+	<tiles:insertAttribute name="footer"></tiles:insertAttribute>
 </div>
 
 </body>
