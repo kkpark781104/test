@@ -5,8 +5,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-asdfasdfasdf
-	<c:out value="${leftMenuList}"></c:out>
 	<div class="sidebar-nav navbar-collapse">
 		<ul class="nav" id="side-menu">
 			<li class="sidebar-search">

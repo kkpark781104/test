@@ -11,7 +11,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title><tiles:getAsString name="title"></tiles:getAsString></title>
+        <title>Startmin - Bootstrap Admin Theme</title>
 
         <!-- Bootstrap Core CSS -->
         <link href="../static/css/bootstrap.min.css" rel="stylesheet">
@@ -79,8 +79,9 @@
 
         <!-- Morris Charts JavaScript -->
         <script src="../static/js/raphael.min.js"></script>
-        <script src="../static/js/morris.min.js"></script>
-        <script src="../static/js/morris-data.js"></script>
+        
+        <!-- <script src="../static/js/morris.min.js"></script>
+        <script src="../static/js/morris-data.js"></script> -->
 
         <!-- Custom Theme JavaScript -->
         <script src="../static/js/startmin.js"></script>
